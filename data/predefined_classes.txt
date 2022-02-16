@@ -1,0 +1,16 @@
+Column
+Column_aggregate
+Column_rimed
+Column_aged
+Plate
+Plate_aged
+Lollipop
+Frozen droplets
+Droplet_aged
+Droplet_rimed
+Column plate
+Irregular
+Irregular_rimed
+Dendrite
+Rosette
+Small ice
