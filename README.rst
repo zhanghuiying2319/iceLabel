@@ -23,7 +23,7 @@ It is written in Python and uses Qt for its graphical interface.
 Annotations are saved as XML files in PASCAL VOC format, the format used
 by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO and CreateML formats.
 
-.. image:: https://github.com/zhanghuiying2319/iceLabel/blob/main/demo/demo.jpg
+.. image:: https://github.com/zhanghuiying2319/iceLabel/blob/main/demo/demo3.jpg
      :alt: Demo Image
 
 .. image:: https://github.com/zhanghuiying2319/iceLabel/blob/main/demo/demo.jpg
