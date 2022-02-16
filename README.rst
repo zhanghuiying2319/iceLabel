@@ -28,6 +28,8 @@ by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO and
 .. image:: https://github.com/zhanghuiying2319/iceLabel/blob/main/demo/demo.jpg
      :alt: Demo Image
 
+.. image:: https://github.com/zhanghuiying2319/iceLabel/tree/main/demo/demo4.png
+
 `Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
 
 Installation
