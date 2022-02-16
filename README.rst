@@ -1,4 +1,4 @@
-LabelImg
+iceLabel
 ========
 
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
@@ -15,8 +15,7 @@ LabelImg
 
 .. image:: https://img.shields.io/badge/lang-zh--TW-green.svg
     :target: (https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md
-
-LabelImg is a graphical image annotation tool.
+iceLabel is adapted from LabelImg.LabelImg is a graphical image annotation tool.
 
 It is written in Python and uses Qt for its graphical interface.
 
