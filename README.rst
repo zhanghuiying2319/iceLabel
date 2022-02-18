@@ -1,4 +1,4 @@
-iceLabel
+IceLabel
 ========
 
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
@@ -31,6 +31,24 @@ by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO and
 .. image:: https://github.com/zhanghuiying2319/iceLabel/blob/main/demo/demo4.png
      :alt: Demo Image
 
+Icelabel include the following default categories:
+Column
+Column_rimed
+Column_aged
+Plate
+Plate_aged
+Lollipop
+Frozen droplets
+Droplet_aged
+Droplet_rimed
+Column plate
+Irregular
+Irregular_rimed
+Dendrite
+Rosette
+Small ice
+
+Users can change default labels by editing 'iceLabel/data/predefined_classes.txt' file.
 `Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
 
 Installation
