@@ -32,8 +32,8 @@ by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO and
      :alt: Demo Image
 
 Icelabel include the following default categories:
-Column
-Column_rimed
+1. Column
+2. Column_rimed
 Column_aged
 Plate
 Plate_aged
