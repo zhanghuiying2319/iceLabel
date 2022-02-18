@@ -33,6 +33,7 @@ by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO and
 
 Default Classes:
 --------------------------------------------------
+
 Icelabel include the following default categories:
 1. Column
 2. Column_rimed
