@@ -32,7 +32,7 @@ by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO and
      :alt: Demo Image
 
 Icelabel include the following default categories:
-1. Column
+`1. Column`
 2. Column_rimed
 Column_aged
 Plate
@@ -213,13 +213,6 @@ Note:
 - You shouldn't use "default class" function when saving to YOLO format, it will not be referred.
 
 - When saving as YOLO format, "difficult" flag is discarded.
-
-Create pre-defined classes
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-You can edit the
-`data/predefined\_classes.txt <https://github.com/tzutalin/labelImg/blob/master/data/predefined_classes.txt>`__
-to load pre-defined classes
 
 Annotation visualization
 ~~~~~~~~~~~~~~~~~~~~~~~~
