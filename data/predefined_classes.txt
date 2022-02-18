@@ -1,16 +1,32 @@
-Column
+Column 
 Column_aggregate
 Column_rimed
 Column_aged
+Column_rimed_aggregate
+Column_aged_aggregate
 Plate
+Plate_aggregate
 Plate_aged
+Plate_aged_aggregate
 Lollipop
+Lollipop_aggregate
 Frozen droplets
-Droplet_aged
+Droplet_aggregate 
+Droplet_aged 
 Droplet_rimed
+Droplet_aggregate_rimed
+Droplet_aged_aggregate
 Column plate
-Irregular
+Plate Column_aggregate
+Irregular 
 Irregular_rimed
+Irregular_aggregate
+Irregular_rimed_aggregate
 Dendrite
 Rosette
 Small ice
+
+
+
+
+
