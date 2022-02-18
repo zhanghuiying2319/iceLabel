@@ -32,26 +32,27 @@ by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO and
      :alt: Demo Image
 
 Default Classes:
-~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------
 Icelabel include the following default categories:
 1. Column
 2. Column_rimed
-Column_aged
-Plate
-Plate_aged
-Lollipop
-Frozen droplets
-Droplet_aged
-Droplet_rimed
-Column plate
-Irregular
-Irregular_rimed
-Dendrite
-Rosette
-Small ice
+3. Column_aged
+4. Plate
+5. Plate_aged
+6. Lollipop
+7. Frozen droplets
+8. Droplet_aged
+9. Droplet_rimed
+10. Column plate
+11. Irregular
+12. Irregular_rimed
+13. Dendrite
+14. Rosette
+15. Small ice
 
+Edit default classes:
+~~~~~~~~~~~~~~~~~~~~~~
 Users can change default labels by editing 'iceLabel/data/predefined_classes.txt' file.
-`Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
 
 Installation
 ------------------
