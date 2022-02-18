@@ -35,6 +35,7 @@ Default Classes:
 --------------------------------------------------
 
 Icelabel include the following default categories:
+
 1. Column
 2. Column_rimed
 3. Column_aged
