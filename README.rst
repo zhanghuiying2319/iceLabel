@@ -36,21 +36,37 @@ Default Classes:
 
 Icelabel include the following default categories:
 
-1. Column
-2. Column_rimed
-3. Column_aged
-4. Plate
-5. Plate_aged
-6. Lollipop
-7. Frozen droplets
-8. Droplet_aged
-9. Droplet_rimed
-10. Column plate
-11. Irregular
-12. Irregular_rimed
-13. Dendrite
-14. Rosette
-15. Small ice
+1.	Column
+2.	Column_aggregate
+3.	Column_rimed
+4.	Column_aged
+5.	Column_rimed_aggregate
+6.	Column_aged_aggregate
+7.	Plate
+8.	Plate_aggregate
+9.	Plate_aged
+10.	Plate_aged_aggregate
+11.	Lollipop
+12.	Lollipop_aggregate
+13.	Frozen droplets
+14.	Droplet_aggregate
+15.	Droplet_aged
+16.	Droplet_rimed
+17.	Droplet_aggregate_rimed
+18.	Droplet_aged_aggregate
+19.	Column plate
+20.	Plate Column_aggregate
+21.	Irregular
+22.	Irregular_rimed
+23.	Irregular_aggregate
+24.	Irregular_rimed_aggregate
+25.	Dendrite
+26.	Rosette
+27.	Small ice
+
+
+
+
 
 Edit default classes:
 ~~~~~~~~~~~~~~~~~~~~~~
